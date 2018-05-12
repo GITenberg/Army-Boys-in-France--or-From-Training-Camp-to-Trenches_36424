@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '1970'
     url: http://www.gutenberg.org/2009/agents/1970
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36424#Army-Boys-in-France--or-From-Training-Camp-to-Trenches
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2011-06-13'
 gutenberg_type: Text
